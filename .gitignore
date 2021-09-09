@@ -104,3 +104,7 @@ dist
 .tern-port
 
 utils/xlsxTransform-*
+
+/.idea
+
+__localStorage.json
